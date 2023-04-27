@@ -1,1 +1,3 @@
-# coinlist_auto_quiz
+# Coinlist Auto Quiz
+
+На странице с квизом жмём F12 и вставляем код в консоль
