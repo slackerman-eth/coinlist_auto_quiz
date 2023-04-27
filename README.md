@@ -1,4 +1,4 @@
-# Coinlist Auto Quiz
+# Coinlist Auto Quiz (CyberConnect)
 
 На странице с квизом жмём F12 и вставляем код в консоль
 
