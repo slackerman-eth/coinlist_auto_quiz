@@ -2,7 +2,7 @@
 
 На странице с квизом жмём F12 и вставляем код в консоль
 
-```
+```js
 let run = async () => {
     let a = document.body.querySelectorAll(".quiz")[0].querySelectorAll(".c-label--inline"),
         b = [
